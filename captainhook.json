@@ -7,12 +7,12 @@
         "enabled": true,
         "actions": [
             {
-                "action": "./vendor/bin/pint -v",
+                "action": "vendor\\bin\\pint -v",
                 "options": [],
                 "conditions": []
             },
             {
-                "action": "./vendor/bin/pest",
+                "action": "vendor\\bin\\pest",
                 "options": [],
                 "conditions": []
             }
